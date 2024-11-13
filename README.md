@@ -1,3 +1,7 @@
+🆕更新日志
+
+2024/11/08
+
 epg https://ghp.ci/raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml
 
 TV https://ghp.ci/raw.githubusercontent.com/eavea/IPTV/refs/heads/main/M3U/TV.m3u
