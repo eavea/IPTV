@@ -1,20 +1,20 @@
 epg
-https://gh-proxy.com/raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml
+http://www.eavea.com/tv/?k=epg
 
 TV
-https://gh-proxy.com/raw.githubusercontent.com/eavea/IPTV/refs/heads/main/M3U/TV.m3u
+http://www.eavea.com/tv/?k=TV
 
 电视剧
-https://gh-proxy.com/raw.githubusercontent.com/eavea/IPTV/refs/heads/main/M3U/电视剧.m3u
+http://www.eavea.com/tv/?k=电视剧
 
 电影
-https://gh-proxy.com/raw.githubusercontent.com/eavea/IPTV/refs/heads/main/M3U/电影.m3u
+http://www.eavea.com/tv/?k=电影
 
 电视剧Q
-https://gh-proxy.com/raw.githubusercontent.com/eavea/IPTV/refs/heads/main/M3U/电视剧Q.m3u
+http://www.eavea.com/tv/?k=电视剧Q
 
 战争大陆老电影
-https://gh-proxy.com/raw.githubusercontent.com/eavea/IPTV/refs/heads/main/M3U/战争大陆老电影.m3u
+http://www.eavea.com/tv/?k=战争大陆老电影
 
 
 🆕更新日志
