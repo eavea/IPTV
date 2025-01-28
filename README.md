@@ -1,5 +1,7 @@
 https://gh-proxy.com/raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml
 
+http://www.eavea.com/tv/?k=epg
+
 http://www.eavea.com/tv/?k=TV
 
 http://www.eavea.com/tv/?k=电视剧
@@ -12,6 +14,8 @@ http://www.eavea.com/tv/?k=战争大陆老电影
 
 
 🆕更新日志
+
+2025年01月28日
 
 2025年01月12日
 
